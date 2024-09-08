@@ -1,3 +1,3 @@
 README CASEIRO
 AUTENTICACAO SSH
-auteração 1
+alteração 1
